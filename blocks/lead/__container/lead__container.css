@@ -1,0 +1,15 @@
+.lead__container{
+    max-width: 984px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+@media (max-width: 320px) {
+    .lead__container{
+        width: 320px;
+        
+}
+}
