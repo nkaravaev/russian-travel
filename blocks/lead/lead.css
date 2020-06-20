@@ -6,13 +6,15 @@
 
 
 .lead{
-padding-bottom: 92px;
+    padding-bottom: 92px;
 }
+
+
 
 @media (max-width: 768px) {
     .lead{
         padding-bottom: 88px;
-}
+    }
 }
 
 
@@ -20,5 +22,6 @@ padding-bottom: 92px;
 @media (max-width: 320px) {
     .lead{
         max-width: 320px;  
-        padding-bottom: 64px;}
+        padding-bottom: 64px;
+    }
 }

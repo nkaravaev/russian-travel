@@ -7,18 +7,20 @@
 @media (max-width: 1024px) {
     .place__website{
        padding-left: 32px;
- 
- }
+    }
+  }
 
 
  @media (max-width: 768px) {
     .place__website{
-    padding-left: 28px; 
+    padding-left: 28px;
+    }
  }
 
 
-@media (max-width: 320px) {
+@media (max-width: 520px) {
     .place__website{
         display: none;
     }
+}
        

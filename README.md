@@ -1,6 +1,6 @@
 # Проект 3: Путешествие по России
 
-https://nkaravaev.github.io/russian-travel/index.html
+
 
 **Интро**
 

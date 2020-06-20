@@ -7,18 +7,15 @@
 @import url(./__p-container/place__p-container.css);
 
 .place{
-    
-    margin-bottom: 80px;
-    display: grid;
-      grid-template-areas:
-    "title website"
-    "image paragraph"
-      
+margin-bottom: 80px;
+display: grid;
+grid-template-areas:
+"title website"
+"image paragraph"
 }
 
 @media (max-width: 520px) {
     .place{
-        
         display: block;
         margin-bottom: 32px;
     }
