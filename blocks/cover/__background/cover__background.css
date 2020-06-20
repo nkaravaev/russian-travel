@@ -11,6 +11,7 @@
   justify-items: center;
   opacity: 0.8;
   transition: 0.3s 0s opacity ease-in;
+  
 }
 
 @media (max-width: 1024px) {
