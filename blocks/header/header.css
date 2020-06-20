@@ -17,7 +17,8 @@
 
 @media (max-width: 768px) {
     .header{
-    margin-left: 26px;
+        max-width: 94%;
+        margin-left: 26px;
     margin-right: 26px;}
 }
 
@@ -25,7 +26,7 @@
 
 @media (max-width: 405px) {
     .header{
-        max-width: 288px;    
+        max-width: 90%;    
         margin-left: 16px;
     margin-right: 16px;}
 }
