@@ -1,41 +1,40 @@
-.place__title{
+.place__title {
    max-width: 460px;
-   max-height: 152px;
    align-self: end;
    font-style: normal;
    font-weight: 900;
    font-size: 72px;
    line-height: 1.1;
-   color: #FFFFFF;
+   color: #ffffff;
    margin: 0;
    grid-area: title;
-   padding-bottom: 40px;
+   padding-bottom: 48px;
 }
 
 @media (max-width: 1024px) {
-   .place__title{
-      max-width: 42vw;
-      }
+   .place__title {
+       max-width: 42vw;
+   }
+}
 
 @media (max-width: 768px) {
-   .place__title{
-      font-size: 42px;
-      max-width: 44vw;
-      }
-
+   .place__title {
+       font-size: 42px;
+       max-width: 44vw;
+   }
 }
 
 @media (max-width: 520px) {
-   .place__title{
-      width: 100%;
-      font-size: 32px;
-      padding: 0 24px 32px;}
+   .place__title {
+       width: 100%;
+       font-size: 32px;
+       padding: 0 24px 32px;
+   }
 }
 
-
-
 @media (max-width: 320px) {
-   .place__title{
-      font-size: 32px;
-      padding: 0 16px 32px;}
+   .place__title {
+       font-size: 32px;
+       padding: 0 16px 32px;
+   }
 }

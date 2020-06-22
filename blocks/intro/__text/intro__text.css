@@ -1,29 +1,29 @@
-.intro__text{
+.intro__text {
     max-width: 690px;
-        font-style: normal;
+    font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 1.6;
-    color: #FFFFFF;
+    color: #ffffff;
     margin-left: 148px;
-margin-bottom: 32px;
+    margin-bottom: 32px;
 }
 
 @media (max-width: 1024px) {
-    .intro__text{
-        margin-left: 48px;}
+    .intro__text {
+        margin-left: 48px;
+    }
 }
 
-
 @media (max-width: 768px) {
-    .intro__text{
+    .intro__text {
         margin-left: 24px;
-        margin-right: 24px;}
+        margin-right: 24px;
     }
+}
 
 @media (max-width: 320px) {
-    .intro__text{
-        max-width: 320px;
-
-margin: 0 0 32px;}
+    .intro__text {
+        margin: 0 0 32px;
     }
+}

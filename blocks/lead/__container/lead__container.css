@@ -1,4 +1,4 @@
-.lead__container{
+.lead__container {
     max-width: 984px;
     display: flex;
     margin-left: auto;
@@ -8,19 +8,19 @@
 }
 
 @media (max-width: 1024px) {
-    .lead__container{
+    .lead__container {
         max-width: 91%;
     }
 }
 
 @media (max-width: 768px) {
-    .lead__container{
+    .lead__container {
         max-width: 100%;
     }
 }
 
 @media (max-width: 320px) {
-    .lead__container{
+    .lead__container {
         width: 320px;
     }
 }

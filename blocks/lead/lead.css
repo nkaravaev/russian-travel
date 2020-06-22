@@ -4,24 +4,18 @@
 @import url(./__caption/lead__caption.css);
 @import url(./__container/lead__container.css);
 
-
-.lead{
+.lead {
     padding-bottom: 92px;
 }
 
-
-
 @media (max-width: 768px) {
-    .lead{
+    .lead {
         padding-bottom: 88px;
     }
 }
 
-
-
 @media (max-width: 320px) {
-    .lead{
-        max-width: 320px;  
+    .lead {
         padding-bottom: 64px;
     }
 }

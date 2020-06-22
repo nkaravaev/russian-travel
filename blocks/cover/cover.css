@@ -2,17 +2,14 @@
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./__overlay/cover__overlay.css);
 
-
-.cover { 
-  max-width: 1184px; 
-  margin: 0 auto 0; 
-  } 
-
-  @media (max-width: 1024px) {
-    .cover {
-    max-width: 100%;
-        margin: 0 auto 0; 
-              
-      }
+.cover {
+    max-width: 1184px;
+    margin: 0 auto 0;
 }
 
+@media (max-width: 1024px) {
+    .cover {
+        max-width: 100%;
+        margin: 0 auto 0;
+    }
+}

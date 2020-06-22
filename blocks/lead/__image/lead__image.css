@@ -1,4 +1,4 @@
-.lead__image{
+.lead__image {
     margin-bottom: 8px;
     margin-top: 0;
     width: 984px;
@@ -8,23 +8,22 @@
 }
 
 @media (max-width: 1024px) {
-    .lead__image{
+    .lead__image {
         width: 100%;
         height: calc(100% / 1.6);
     }
 }
 
 @media (max-width: 768px) {
-    .lead__image{
+    .lead__image {
         width: 100%;
         height: calc(100% / 1.6);
-}
+    }
 }
 
 @media (max-width: 320px) {
-    .lead__image{
+    .lead__image {
         width: 320px;
         height: 200px;
+    }
 }
-}
-
