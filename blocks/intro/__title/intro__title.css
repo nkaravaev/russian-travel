@@ -25,7 +25,6 @@
 @media (max-width: 320px) {
     .intro__title {
         font-size: 32px;
-        line-height: 1.1;
         margin-left: 0;
     }
 }

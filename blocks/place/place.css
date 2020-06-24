@@ -4,7 +4,7 @@
 @import url(./__link/place__link.css);
 @import url(./__paragraph/place__paragaph.css);
 @import url(./__website/place__website.css);
-@import url(./__p-container/place__p-container.css);
+@import url(./__paragraphs/place__paragaphs.css);
 
 .place {
     margin-bottom: 80px;
